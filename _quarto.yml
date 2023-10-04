@@ -6,10 +6,14 @@ website:
   description: "This is Giovanni Paolo Mariani's personal Website."
   navbar:
     left:
-      - href: research/research.qmd
+      - href: research/index.qmd
         text: Research
-      - href: talks/talks.qmd
+      - href: talks/index.qmd
         text: Talks
+      - href: teaching/index.qmd
+        text: Teaching
+      - href: whid/index.qmd
+        text: WHID
       - href: cv/index.qmd
         text: "CV"
 
@@ -24,10 +28,13 @@ website:
         href: "mailto:giovanni.paolo.mariani@ulb.be" 
 format:
   html:
-    theme: cosmo
+    theme: 
+       - minty
+       - html/styles.scss 
+    mainfont: Fira sans
     page-layout: full
-    toc: true
-    css: html\styles.scss
+    toc: false
+    
 
 editor: visual
 
