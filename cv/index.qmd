@@ -1,0 +1,13 @@
+---
+title: "**CV**"
+editor: visual
+---
+
+You can find a complete version of my CV [here]().
+
+## Education 
+
+- PhD in Economics, Université Libre de Bruxelles (ECARES), 2021 - Ongoing 
+- Mres in Economics, Université Libre de Bruxelles (ECARES), 2019 - 2021
+- Msc in Economics, Double Degree Program, LUISS University of Rome & Solvay Brussels Schools of Economics and Managements 2017 - 2019
+- Bsc in Economics and Managements, LUISS University of Rome, 2014 - 2017

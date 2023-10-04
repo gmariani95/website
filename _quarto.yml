@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "Giovanni Paolo Mariani"
+  description: "This is Giovanni Paolo Mariani's personal Website."
+  navbar:
+    left:
+      - href: research/research.qmd
+        text: Research
+      - href: talks/talks.qmd
+        text: Talks
+    right:
+      - icon: github
+        href: https://github.com/gmariani95
+      - icon: twitter
+        href: https://twitter.com/Giampamar1
+      - icon: linkedin
+        href: https://www.linkedin.com/in/giovanni-paolo-mariani-645247135/
+      - icon: envelope
+        href: "mailto:giovanni.paolo.mariani@ulb.be" 
+format:
+  html:
+    theme: cosmo
+    page-layout: full
+    toc: true
+    css: html\styles.scss
+
+editor: visual
+
