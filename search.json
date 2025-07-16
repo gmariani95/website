@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "website",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nOct 4, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 1, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitæ",
+    "section": "",
+    "text": "PhD in Economics, Université Libre de Bruxelles (ECARES), 2021 - Ongoing\nMres in Economics, Université Libre de Bruxelles (ECARES), 2019 - 2021\nMsc in Economics, Double Degree Program, LUISS University of Rome & Solvay Brussels Schools of Economics and Managements 2017 - 2019\nBsc in Economics and Managements, LUISS University of Rome, 2014 - 2017\n\n\n\n\n\n\n\n\n  \n     Download current CV"
+  },
+  {
+    "objectID": "cv/index.html#education",
+    "href": "cv/index.html#education",
+    "title": "Curriculum vitæ",
+    "section": "",
+    "text": "PhD in Economics, Université Libre de Bruxelles (ECARES), 2021 - Ongoing\nMres in Economics, Université Libre de Bruxelles (ECARES), 2019 - 2021\nMsc in Economics, Double Degree Program, LUISS University of Rome & Solvay Brussels Schools of Economics and Managements 2017 - 2019\nBsc in Economics and Managements, LUISS University of Rome, 2014 - 2017\n\n\n\n\n\n\n\n\n  \n     Download current CV"
+  },
+  {
+    "objectID": "other/index.html",
+    "href": "other/index.html",
+    "title": "Fellowship & Awards",
+    "section": "",
+    "text": "Fellowship & Awards\n\n\nResearch fellow, Fund for Scientific Research-FNRS, 2022 - 2026\nGUTT Prize, (“For an outstanding end of studies thesis in the field of economics and finance”)\n\n\nTeaching\n\n\nEuropean Economic Governance (IIE - ULB), 2021 - 2022\nStudent Coordinator “Advanced Master in Political Economy” (ULB & Georgetown University) 2021 - 2022\n\n\nActivities\n\n\nInternal Seminars Organiser (ECARES, ULB) 2023 - 2025\nENTER Student Coordinator (ULB, ENTER) 2023 - 2025"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "research/index.html#work-in-progress",
+    "href": "research/index.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in Progress",
+    "text": "Work in Progress"
+  },
+  {
+    "objectID": "research/index.html#articles-in-books-and-journals-soft-refereeing",
+    "href": "research/index.html#articles-in-books-and-journals-soft-refereeing",
+    "title": "Research",
+    "section": "Articles in Books and Journals (Soft-refereeing)",
+    "text": "Articles in Books and Journals (Soft-refereeing)"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Giovanni Paolo Mariani",
+    "section": "",
+    "text": "Welcome to my website!\nI am a PhD student in Economics at ECARES (Université Libre de Bruxelles).\nI hold a Mres Degree in Economics and Statistics from ECARES (2021). Here you can find my CV.\nIn My research I use a combination of spatial and administrative data to study two dimensions of inequality: housing and consumption of public goods. My agenda is supported by a research grant from the F.R.S. - F.N.R.S.\nPlease feel free to contact me if you have any questions or would like to discuss potential projects."
+  },
+  {
+    "objectID": "whid/index.html",
+    "href": "whid/index.html",
+    "title": "The World Housing Inequality Database (WHID)",
+    "section": "",
+    "text": "Coming in the September 2025,\nThe World Housing Inequality Database (WHID) will be a cross-country harmonized database with housing inequality estimates available at different levels of aggregation. All estimates will be constructed using high-quality administrative data based on the universe of properties in a given country (cadasters).\nWHID estimates will be publicly available.\nThe first version of the database will include the following countries: United States, Belgium, and Spain.\nG. Doemench-Arumi (VanderbiltU) is a co-founder and collaborator in this project.\nG. Doemench-Arumi gratefully acknowledges funding and logistic support from the Fonds Thiepolam (Fondation ULB) and the Data with Purpose Program (Regrid).\nThe exhibits below illustrate preliminary housing inequality results, showcasing and highlighting the advantages inherent in cadastral data described earlier.\nThis figure shows disparities in (assessed) housing value in the United States. Our state-level estimates are constructed from the universe of US parcels drawn from county assessors. Because different counties assess properties applying different methodologies, a future version of this figure will rely on predicted house values from real estate transactions.\nThis figure shows inequality in the space (square meters) of new housing inflows in Spain’s largest cities from the beginning of the 20th Century until 2020. Each point in the map indicates the level of inequality of inflows in the previous decade in a specific city. For example, the “BCN” label from 1910 indicates that the housing space inequality of new dwellings constructed between 1900 and 1910 was 0.3.\nThe figure is produced using the 2020 cadastre. It showcases its potential to study inequality over time from one cross-section (with caveats – e.g., demolitions are not observed)."
+  },
+  {
+    "objectID": "whid/index.html#why-housing-and-housing-inequality",
+    "href": "whid/index.html#why-housing-and-housing-inequality",
+    "title": "The World Housing Inequality Database (WHID)",
+    "section": "Why housing and housing inequality?",
+    "text": "Why housing and housing inequality?"
+  },
+  {
+    "objectID": "whid/index.html#preliminary-results",
+    "href": "whid/index.html#preliminary-results",
+    "title": "The World Housing Inequality Database (WHID)",
+    "section": "Preliminary results",
+    "text": "Preliminary results"
+  },
+  {
+    "objectID": "whid/index.html#housing-value-inequality-in-catalonia-2019",
+    "href": "whid/index.html#housing-value-inequality-in-catalonia-2019",
+    "title": "The World Housing Inequality Database (WHID)",
+    "section": "Housing Value Inequality in Catalonia (2019)",
+    "text": "Housing Value Inequality in Catalonia (2019)"
+  }
+]
