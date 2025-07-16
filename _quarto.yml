@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - googlec131482fef226884.html
 
 website:
   title: "Giovanni Paolo Mariani"
