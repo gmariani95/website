@@ -1,0 +1,35 @@
+---
+title: "**Research**"
+editor: visual
+---
+
+<div style="margin-top: 4em;">
+## **Working Papers**
+</div>
+
+-   [Do Public Goods Actually Reduce Inequality?](working_papers/public_goods.pdf) (*with* [*M. Castanheira*](https://sites.google.com/site/micaelcastanheiraswebsite/) & [*C. Tricaud*](https://www.clemence.tricaud.com/research) )
+    <details>
+    <summary>Abstract</summary>
+    Public goods are meant to be universal, but they are inherently place-based. This paper systematically measures spatial access to public goods and quantifies the implications of distance to public facilities for income inequality. First, we map all schools and hospitals across Belgium. We compute the distance to facilities for each of the 20,000 neighborhoods and document large spatial inequalities in access to public facilities. Second, we find that this unequal distribution favors high-income neighborhoods: allocating public goods spending proportionally to our access index increases income inequality compared to measures based solely on disposable income. Third, we show that the positive relationship between income and access can be rationalized by a simple model of public goods allocation with an inequality-neutral social planner. Finally, we provide evidence that access is strongly correlated with educational and health outcomes, emphasizing the need to consider the place-based nature of public goods when measuring inequality.
+
+    </details>
+
+-   Housing inequality in Spain (*Working Paper Available Soon*) (*with* [*G. Doemench-Arumi*](https://sites.google.com/site/domenechweb/home))
+    <details>
+    <summary>Abstract</summary>
+    We use data on the universe of real estate in Spain and recent real estate transactions in Catalonia to construct novel contemporaneous and long-run housing inequality estimates for Spain at all existing levels of aggregation. Housing inequality in Spain is large, with the top 1% most spacious and valuable dwellings accruing over 6% of total residential space (square meters) and value. These estimates put Spain in between the US and Belgium in terms of inequality. Long-run series show that space inequality was much higher at the beginning of the 20th Century and declined significantly in the 1960s, coinciding with a boom in housing supply. Housing value inequality increased between 2009 and 2019, likely due to cyclical changes in aggregate demand and stagnating new housing supply. We document significant heterogeneity across all levels of aggregation and a correlation between housing value and income inequality, suggesting a connection between the two. This research introduces a new publicly available database to study housing-related topics and highlights the importance of granularity when evaluating policies related to inequality and housing.
+
+    </details>
+
+
+<div style="margin-top: 4em;">
+## **Work in Progress**
+</div>
+
+-   Housing inequality in the US (*with* [*G. Doemench-Arumi*](https://sites.google.com/site/domenechweb/home) & [*L. Ma*](https://leima-econ.com/))
+
+<div style="margin-top: 4em;">
+## **Articles in Books and Journals (Soft-refereeing)**
+</div>
+
+-   [Des Biens Publics pas si Publics que Ça](https://www.racine.be/fr/in%C3%A9galit%C3%A9s-en-belgique-un-paradoxe) (*with* [*M. Castanheira*](https://sites.google.com/site/micaelcastanheiraswebsite/)) in Decoster, A., Decancq, K., De Rock, B., and P. Gobbi (eds.) (2024), Inégalités en Belgique. Un paradoxe, Editions Racine, Bruxelles

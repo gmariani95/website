@@ -1,0 +1,29 @@
+---
+title: "Giovanni Paolo Mariani"
+image: profile.jpg
+about:
+  image-shape: round
+  image-width: 20em
+  template: trestles
+  links:
+      - icon: github
+        href: https://github.com/gmariani95
+      - icon: twitter
+        href: https://twitter.com/Giampamar1
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/giovanni-paolo-mariani-645247135/
+      - icon: envelope
+        text: Email
+        href: "mailto:giovanni.paolo.mariani@ulb.be"
+---
+
+Welcome to my website!
+
+I am a PhD student in Economics at [ECARES](https://ecares.ulb.be/) (Université Libre de Bruxelles).
+
+I hold a Mres Degree in Economics and Statistics from ECARES (2021). Here you can find my [CV]().
+
+In My research I use a combination of spatial and administrative data to study two dimensions of inequality: housing and consumption of public goods. My agenda is supported by a research grant from the [F.R.S. - F.N.R.S.](https://www.frs-fnrs.be/en/)
+
+Please feel free to [contact me](mailto:giovanni.paolo.mariani@ulb.be) if you have any questions or would like to discuss potential projects.

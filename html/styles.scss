@@ -1,0 +1,50 @@
+/*-- scss:defaults --*/
+
+
+/*-- scss:defaults --*/
+
+// Fonts 
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+// Colors
+$darkblue: #053660;
+$dark-green: #858E79;
+$light-green: #D1D9CE;
+$cream: #FDFBF7;
+$gray: #64605f;
+$purple: #9158A2;
+$orange: #ad7237;
+$white: #FFFFFF;
+
+// Base document colors
+$navbar-bg: $darkblue; // navbar
+$navbar-fg: $white; // navbar foreground elements
+$navbar-hl: $white; // highlight color when hovering over navbar links
+//$body-bg: $light-green; // page background 
+//$body-color: $gray; // page text 
+$footer-bg: $cream; // footer 
+$link-color: $darkblue; // hyperlinks 
+
+// Inline code
+$code-bg: $cream; // inline code background color
+$code-color: $purple; // inline code text color
+
+// Code blocks
+$code-block-bg: $cream; // code block background color
+
+
+
+
+
+.cv-download {
+    background-color: $darkblue;
+    border-color: $darkblue;
+    color: $white;
+
+    &:hover {
+        background-color: $darkblue;
+        border-color: $darkblue;
+        color: $white;
+    }
+}
+

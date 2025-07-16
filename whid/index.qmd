@@ -1,0 +1,122 @@
+---
+title: "The World Housing Inequality Database (WHID)"
+editor: visual
+---
+
+Coming in the **September 2025**,
+
+The **World Housing Inequality Database (WHID)** will be a cross-country harmonized database with housing inequality estimates available at different levels of aggregation. All estimates will be constructed using high-quality administrative data based on the universe of properties in a given country (cadasters).
+
+WHID estimates will be **publicly available**.
+
+The first version of the database will include the following countries: **United States, Belgium, and Spain**.
+
+[**G. Doemench-Arumi**](https://sites.google.com/site/domenechweb/home) (VanderbiltU) is a co-founder and collaborator in this project.
+
+[**G. Doemench-Arumi**](https://sites.google.com/site/domenechweb/home) gratefully acknowledges funding and logistic support from the **Fonds Thiepolam** ([Fondation ULB](https://www.fondationulb.be/en/)) and the **Data with Purpose Program ([Regrid](https://regrid.com/))**.
+
+<div style="margin-top: 4em;">
+## Why housing and housing inequality?
+</div>
+
+1.  **Housing is critical to understanding wealth, income, and consumption inequality.** Also inequality in opportunities. Housing is the most important and evenly distributed asset throughout the income or wealth distribution. It is, therefore, crucial to understand wealth inequality. According to OECD estimates, housing consumption accounts for 10 to 30% of household consumption in OECD countries. It is, therefore, crucial to understand income and consumption inequality. Finally, owning or renting a house in a neighborhood is the only way to benefit from (or be harmed by) neighborhood effects, impacting outcomes as vital as social mobility. As the "door of entry to neighborhoods," housing is critical to understanding inequality in opportunities.
+
+2.  **Cross-country comparability.** Compared to other data sources, cadastral data is relatively homogeneous across (at least Western) countries. That translates into high cross-country comparability.
+
+3.  **Administrative boundaries are not problematic.** Cadastral data is typically geolocated, which implies that arbitrary or changing administrative boundaries do not pose a problem in analyzing the data at any desired level of aggregation.
+
+4.  **Top coding is not a problem.** Cadastral data typically includes information on the universe of real estate in a given location. Therefore, censoring at the top is not a problem, and imputation methods are less often required.
+
+5.  **Analysis over time.** Because the year of construction is a variable typically included in cadastres, it is possible to construct a panel of real estate at any level of aggregation at any point in time, with caveats.
+
+<div style="margin-top: 4em;">
+## Preliminary results
+</div>
+
+The exhibits below illustrate preliminary housing inequality results, showcasing and highlighting the advantages inherent in cadastral data described earlier.
+
+![Figure 1. Housing value inequality (Gini index) in the United States (2022)](/whid/figs/us_state_gini_parval_52.png)
+
+This figure shows disparities in (assessed) housing value in the United States. Our state-level estimates are constructed from the universe of US parcels drawn from county assessors. Because different counties assess properties applying different methodologies, a future version of this figure will rely on predicted house values from real estate transactions.
+
+::::: {style="display: flex; align-items: center; justify-content: space-between;"}
+::: {style="flex: 1;"}
+![Local Neighborhood Gini (LNG-100) in Barcelona (2019). Source: [Domènech-Arumí (2022)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3863594).](/whid/figs/GiniBCN.jpeg)
+:::
+
+::: {style="flex: 1; margin-left: 20px;"}
+This figure, retrieved from [Domènech-Arumí (2022)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3863594), shows housing value inequality estimates at the local neighborhood level, where a local neighborhood is defined as the immediate surroundings of a building (see the paper for methodological details). It showcases how cadastral data independence of administrative boundaries can be used flexibly to define a geographical area of interest.
+:::
+:::::
+
+![Figure 3. Space Inequality in Housing Flows in the largest Spanish cities (1900-2020)](/whid/figs/gini_flows_pres.jpg){width="120%"}
+
+This figure shows inequality in the space (square meters) of new housing inflows in Spain's largest cities from the beginning of the 20th Century until 2020. Each point in the map indicates the level of inequality of inflows in the previous decade in a specific city. For example, the “BCN” label from 1910 indicates that the housing space inequality of new dwellings constructed between 1900 and 1910 was 0.3.
+
+The figure is produced using the 2020 cadastre. It showcases its potential to study inequality over time from one cross-section (with caveats – e.g., demolitions are not observed).
+
+## Housing Value Inequality in Catalonia (2019)
+
+```{r, echo=FALSE, capture.output=TRUE}
+#| output: false # Do not show the output / results in the rendered document
+
+
+library(sf)
+library(tidyverse)
+library(data.table)
+library(viridis)
+library(classInt)
+library(mapview)
+
+# 4 level up
+parent1 <- dirname(getwd())
+parent2 <- dirname(parent1)   # or dirname(dirname(getwd()))
+parent3 <- dirname(parent2)
+parent4 <- dirname(parent3)
+# Spain folder
+spain_wd <- file.path(parent4, "measuring inequality", "spain")
+
+
+# mun_price_ineq <- fread("C:\\Users\\Asus\\Dropbox\\measuring inequality\\spain\\data\\output\\mun_price_ineq.csv", colClasses = c(CUMUN = "character"))
+mun_price_ineq <- haven::read_dta(
+  file.path(spain_wd, "data", "output", "whid_spain_price_uncensored.dta")
+)
+
+mun_price_ineq <- mun_price_ineq %>%
+  filter(agg==5 & year == 2019 & ineqvar == "value" & var_type == "stock")
+census_sp <- st_read(file.path(spain_wd, "orig", "shape", "seccionado_2020", "SECC_CE_20200101.shp")) %>%
+  rename(reg_id = CCA)
+
+CUMUN_map <- st_read(file.path(spain_wd, "orig", "spain_shp", "CUMUN", "Municipios_IGN.shp")) %>%
+  rename(CUMUN = CODIGOINE) %>%
+  left_join(census_sp %>% st_drop_geometry() %>% select(CUMUN, reg_id) %>% distinct(CUMUN, .keep_all = T), by = "CUMUN")
+mun_ineq_map <- CUMUN_map %>%
+  select(mun_id=CUMUN, NAMEUNIT) %>%
+  left_join(mun_price_ineq, by = "mun_id") %>%
+  filter(!is.na(gini)) %>%
+  mutate(gini=round(gini, 2))
+mypopup <- glue::glue("<strong>{mun_ineq_map$NAMEUNIT}</strong><br />
+                      Municipality: {mun_ineq_map$NAMEUNIT}<br />
+                      Gini Housing Value: {mun_ineq_map$gini}") %>% 
+  lapply(htmltools::HTML)
+
+mylabel <- glue::glue("{mun_ineq_map$NAMEUNIT} {mun_ineq_map$gini}") %>%
+  lapply(htmltools::HTML)
+
+head(mypopup, 3) 
+```
+
+```{r, echo=FALSE, capture.output=TRUE}
+
+
+
+mapview(mun_ineq_map, 
+  zcol = "gini",
+  at = seq(0.0, 0.50, by = 0.10),
+  layer.name = 'Housing Value Inequality (Gini)',
+  legend = TRUE,
+  popup = mypopup, 
+  label = mylabel)
+
+
+```
