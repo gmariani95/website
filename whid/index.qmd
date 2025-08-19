@@ -11,13 +11,13 @@ WHID estimates will be **publicly available**.
 
 The first version of the database will include the following countries: **United States, Belgium, and Spain**.
 
-[**G. Doemench-Arumi**](https://sites.google.com/site/domenechweb/home) (VanderbiltU) is a co-founder and collaborator in this project.
+[**G. Domènech Arumí**](https://sites.google.com/site/domenechweb/home) (VanderbiltU) is a co-founder and collaborator in this project.
 
-[**G. Doemench-Arumi**](https://sites.google.com/site/domenechweb/home) gratefully acknowledges funding and logistic support from the **Fonds Thiepolam** ([Fondation ULB](https://www.fondationulb.be/en/)) and the **Data with Purpose Program ([Regrid](https://regrid.com/))**.
+[**G. Domènech Arumí**](https://sites.google.com/site/domenechweb/home) gratefully acknowledges funding and logistic support from the **Fonds Thiepolam** ([Fondation ULB](https://www.fondationulb.be/en/)) and the **Data with Purpose Program ([Regrid](https://regrid.com/))**.
 
-<div style="margin-top: 4em;">
+::: {style="margin-top: 4em;"}
 ## Why housing and housing inequality?
-</div>
+:::
 
 1.  **Housing is critical to understanding wealth, income, and consumption inequality.** Also inequality in opportunities. Housing is the most important and evenly distributed asset throughout the income or wealth distribution. It is, therefore, crucial to understand wealth inequality. According to OECD estimates, housing consumption accounts for 10 to 30% of household consumption in OECD countries. It is, therefore, crucial to understand income and consumption inequality. Finally, owning or renting a house in a neighborhood is the only way to benefit from (or be harmed by) neighborhood effects, impacting outcomes as vital as social mobility. As the "door of entry to neighborhoods," housing is critical to understanding inequality in opportunities.
 
@@ -29,9 +29,9 @@ The first version of the database will include the following countries: **United
 
 5.  **Analysis over time.** Because the year of construction is a variable typically included in cadastres, it is possible to construct a panel of real estate at any level of aggregation at any point in time, with caveats.
 
-<div style="margin-top: 4em;">
+::: {style="margin-top: 4em;"}
 ## Preliminary results
-</div>
+:::
 
 The exhibits below illustrate preliminary housing inequality results, showcasing and highlighting the advantages inherent in cadastral data described earlier.
 
