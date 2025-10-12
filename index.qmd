@@ -26,9 +26,9 @@ I hold a Mres Degree in Economics and Statistics from ECARES (2021). Here you ca
 
 In my research I use a combination of spatial and administrative data to study two dimensions of inequality: housing and consumption of public goods. My agenda is supported by a research grant from the [F.R.S. - F.N.R.S.](https://www.frs-fnrs.be/en/)
 
-** I am on the 2025-2026 academic job market! **
+**I am on the 2025-2026 academic job market!**
 
-[JMP](path/to/your/jmp.pdf){.btn .btn-primary role="button"}
+[JMP](https://www.dropbox.com/scl/fi/ezgws0doixl21szd3m0wi/Mariani_JMP.pdf?rlkey=i6p6fl9hy2aqrrgbe4cdyqvn2&dl=0){.btn .btn-primary role="button"}
 
 <!--
 Please feel free to [contact me](mailto:giovanni.paolo.mariani@ulb.be) if you have any questions or would like to discuss potential projects.
