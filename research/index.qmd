@@ -48,7 +48,7 @@ editor: visual
 -   Housing inequality in the US (*with* [*G. Domènech Arumí*](https://sites.google.com/site/domenechweb/home) & [*L. Ma*](https://leima-econ.com/))
 
 ::: {style="margin-top: 4em;"}
-## **Articles in Books and Journals (Soft-refereeing)**
+## **Publications**
 :::
 
 -   [Des Biens Publics pas si Publics que Ça](https://www.racine.be/fr/in%C3%A9galit%C3%A9s-en-belgique-un-paradoxe) (*with* [*M. Castanheira*](https://sites.google.com/site/micaelcastanheiraswebsite/)) in Decoster, A., Decancq, K., De Rock, B., and P. Gobbi (eds.) (2024), Inégalités en Belgique. Un paradoxe, Editions Racine, Bruxelles
