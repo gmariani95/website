@@ -20,9 +20,9 @@ about:
 
 Welcome to my website!
 
-I am a PhD student in Economics at [ECARES](https://ecares.ulb.be/) (Université Libre de Bruxelles).
+I am a PhD candidate in Economics at Université Libre de Bruxelles and [ECARES](https://ecares.ulb.be/).
 
-I hold a Mres Degree in Economics and Statistics from ECARES (2021). Here you can find my [CV](https://gmariani95.github.io/website/cv/CV_Giovanni_paolo_Mariani.pdf).
+I hold an MRes in Economics and Statistics from ECARES (2021) and an MSc Double Degree from [LUISS University](https://www.luiss.edu/) and the [Solvay Brussels School of Economics and Management](https://www.solvay.edu/) (2020). Here you can find my [CV](https://gmariani95.github.io/website/cv/CV_Giovanni_paolo_Mariani.pdf).
 
 In my research I use a combination of spatial and administrative data to study two dimensions of inequality: housing and consumption of public goods. My agenda is supported by a research grant from the [F.R.S. - F.N.R.S.](https://www.frs-fnrs.be/en/)
 
@@ -30,6 +30,8 @@ In my research I use a combination of spatial and administrative data to study t
 
 [JMP](research/working_papers/Mariani_JMP.pdf){.btn .btn-primary role="button"}
 
+```{=html}
 <!--
 Please feel free to [contact me](mailto:giovanni.paolo.mariani@ulb.be) if you have any questions or would like to discuss potential projects.
 -->
+```
