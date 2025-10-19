@@ -23,7 +23,6 @@ The first version of the database will include the following countries: **United
 [**Update (October 2025):**]{style="color: red;"}
 
 - The data for Spain is ready and will be available here (link will become active in November). The data is available upon request.
-
 - The WHID will be hosted in this URL: www.worldhousingdata.com (the link will become active in late November).
 
 ::: {style="margin-top: 4em;"}
