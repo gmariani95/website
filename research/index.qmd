@@ -1,21 +1,26 @@
----
-title: "**Research**"
-editor: visual
----
+::: {.columns}
 
-::: {style="margin-top: 4em;"}
-## **Job Market Paper**
-:::
-
--   [How Much Do Households Value Local Public Goods? Evidence from Massachusetts’ Property Tax Limits](working_papers/Mariani_JMP.pdf)
+::: {.column width="65%"}
+-   [How Much Do Households Value Local Public Goods? Evidence from Massachusetts' Property Tax Limits](working_papers/Mariani_JMP.pdf)
 
     <details>
 
     <summary>Abstract</summary>
 
-    This paper quantifies households’ willingness-to-pay for local public goods using Massachusetts’ Proposition 2½, which caps annual property tax increases but permits voter-approved overrides to finance specific projects. Using a novel dataset of all proposed tax overrides from 2001–2023, we implement a dynamic regression discontinuity design that leverages close-margin elections. We find that passing an override causes a sustained 2.8% increase in housing prices over ten years. This estimate rises to 4% in a boundary discontinuity design comparing adjacent properties across municipal borders, controlling for unobserved neighborhood characteristics. We show this capitalization is driven by an influx of higher-income households attracted by improved public services. Consistent with this mechanism, overrides lead to a 3.5% increase in per-pupil spending and a cumulative 25% increase in teacher expenditures, while the enrollment share of low-income students simultaneously declines. A back of the envelope computation reveals that homeowners are willing to pay approximately \$2 in present value for each \$1 of override-funded spending.
+    This paper quantifies households' willingness-to-pay for local public goods using Massachusetts' Proposition 2½, which caps annual property tax increases but permits voter-approved overrides to finance specific projects. Using a novel dataset of all proposed tax overrides from 2001–2023, we implement a dynamic regression discontinuity design that leverages close-margin elections. We find that passing an override causes a sustained 2.8% increase in housing prices over ten years. This estimate rises to 4% in a boundary discontinuity design comparing adjacent properties across municipal borders, controlling for unobserved neighborhood characteristics. We show this capitalization is driven by an influx of higher-income households attracted by improved public services. Consistent with this mechanism, overrides lead to a 3.5% increase in per-pupil spending and a cumulative 25% increase in teacher expenditures, while the enrollment share of low-income students simultaneously declines. A back of the envelope computation reveals that homeowners are willing to pay approximately \$2 in present value for each \$1 of override-funded spending.
 
     </details>
+:::
+
+::: {.column width="5%"}
+<!-- empty column for spacing -->
+:::
+
+::: {.column width="30%"}
+![](figures/drd_housing_nofuture.png)
+:::
+
+::::
 
 ::: {style="margin-top: 4em;"}
 ## **Working Papers**
