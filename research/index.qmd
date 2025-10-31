@@ -1,6 +1,6 @@
 ::: {.columns}
 
-::: {.column width="65%"}
+::: {.column width="55%"}
 -   [How Much Do Households Value Local Public Goods? Evidence from Massachusetts' Property Tax Limits](working_papers/Mariani_JMP.pdf)
 
     <details>
@@ -16,7 +16,7 @@
 <!-- empty column for spacing -->
 :::
 
-::: {.column width="30%"}
+::: {.column width="40%"}
 ![](figures/drd_housing_nofuture.png)
 :::
 
