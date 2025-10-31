@@ -7,13 +7,13 @@ editor: visual
 ## **Job Market Paper**
 :::
 
--   [Willing to Say Yes, Valuing Local Public Goods under Proposition 2^1/2^](working_papers/Mariani_JMP.pdf)
+-   [How Much Do Households Value Local Public Goods? Evidence from Massachusetts’ Property Tax Limits](working_papers/Mariani_JMP.pdf)
 
     <details>
 
     <summary>Abstract</summary>
 
-    This paper quantifies households’ willingness-to-pay for local public goods using Massachusetts’ Proposition 2½, which caps annual property tax increases but permits voter-approved overrides to finance specific projects. Using a novel dataset of all proposed tax overrides from 2001–2023, we implement a dynamic regression discontinuity design that leverages close-margin elections. We find that passing an override causes a sustained 2.8% increase in housing prices over ten years. This estimate rises to 4% in a boundary discontinuity design comparing adjacent properties across municipal borders, controlling for unobserved neighborhood characteristics. We show this capitalization is driven by an influx of higher-income households attracted by improved public services. Consistent with this mechanism, overrides lead to a 3.5% increase in per-pupil spending and a cumulative 25% increase in teacher expenditures, while the enrollment share of low-income students simultaneously declines. A back of the envelope computation reveals that homeowners are willing to pay approximately $2 in present value for each $1 of override-funded spending.
+    This paper quantifies households’ willingness-to-pay for local public goods using Massachusetts’ Proposition 2½, which caps annual property tax increases but permits voter-approved overrides to finance specific projects. Using a novel dataset of all proposed tax overrides from 2001–2023, we implement a dynamic regression discontinuity design that leverages close-margin elections. We find that passing an override causes a sustained 2.8% increase in housing prices over ten years. This estimate rises to 4% in a boundary discontinuity design comparing adjacent properties across municipal borders, controlling for unobserved neighborhood characteristics. We show this capitalization is driven by an influx of higher-income households attracted by improved public services. Consistent with this mechanism, overrides lead to a 3.5% increase in per-pupil spending and a cumulative 25% increase in teacher expenditures, while the enrollment share of low-income students simultaneously declines. A back of the envelope computation reveals that homeowners are willing to pay approximately \$2 in present value for each \$1 of override-funded spending.
 
     </details>
 
@@ -31,7 +31,7 @@ editor: visual
 
     </details>
 
--   Housing inequality in Spain (*Draft Available Upon Request*) (*with* [*G. Domènech Arumí*](https://sites.google.com/site/domenechweb/home))
+-   [Housing inequality in Spain](working_papers/Housing_inequality_Spain.pdf) (*with* [*G. Domènech Arumí*](https://sites.google.com/site/domenechweb/home))
 
     <details>
 
