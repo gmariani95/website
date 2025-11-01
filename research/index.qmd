@@ -48,7 +48,7 @@
 :::
 
 ::: {.column width="40%"}
-![](figures/schools_cut_gravity.jpeg)
+![](figures/schools_cut_gravity.jpeg){width="80%"}
 :::
 
 ::::
@@ -110,7 +110,7 @@
 :::
 
 ::: {.column width="40%"}
-![](figures/book.png)
+![](figures/book.png){width="30%"}
 :::
 
 ::::
