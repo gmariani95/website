@@ -72,7 +72,7 @@
 :::
 
 ::: {.column width="40%"}
-![](figures/tract_gini_space.png)
+![Housing space inequality in Spain (Census Tract)](figures/tract_gini_space.png)
 :::
 
 ::::
