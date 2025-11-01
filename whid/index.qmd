@@ -17,13 +17,14 @@ The first version of the database will include the following countries: **United
 
 [**Update (April 2025):**]{style="color: red;"}
 
-- The data for Belgium is already publicly available here. 
-- See this paper for details about the Belgian data.
+-   The data for Belgium is already publicly available [here](https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/FUQBWG).
+-   See this [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4588122) for details about the Belgian data.
 
 [**Update (October 2025):**]{style="color: red;"}
 
-- The data for Spain is ready and will be available here (link will become active in November). The data is available upon request.
-- The WHID will be hosted in this URL: www.worldhousingdata.com (the link will become active in late November).
+-   The data for Spain is already publicly available [here](https://doi.org/10.7910/DVN/HONBNB).
+-   See this [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5688222) for details about the Spanish data.
+-   The WHID will be hosted in this URL: www.worldhousingdata.com (the link will become active in late November).
 
 ::: {style="margin-top: 4em;"}
 ## Why housing and housing inequality?
