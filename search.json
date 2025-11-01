@@ -35,13 +35,6 @@
     "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Giovanni Paolo Mariani",
-    "section": "",
-    "text": "How Much Do Households Value Local Public Goods? Evidence from Massachusetts’ Property Tax Limits\n\n\nAbstract\n\nThis paper quantifies households’ willingness-to-pay for local public goods using Massachusetts’ Proposition 2½, which caps annual property tax increases but permits voter-approved overrides to finance specific projects. Using a novel dataset of all proposed tax overrides from 2001–2023, we implement a dynamic regression discontinuity design that leverages close-margin elections. We find that passing an override causes a sustained 2.8% increase in housing prices over ten years. This estimate rises to 4% in a boundary discontinuity design comparing adjacent properties across municipal borders, controlling for unobserved neighborhood characteristics. We show this capitalization is driven by an influx of higher-income households attracted by improved public services. Consistent with this mechanism, overrides lead to a 3.5% increase in per-pupil spending and a cumulative 25% increase in teacher expenditures, while the enrollment share of low-income students simultaneously declines. A back of the envelope computation reveals that homeowners are willing to pay approximately $2 in present value for each $1 of override-funded spending."
-  },
-  {
     "objectID": "research/index.html#working-papers",
     "href": "research/index.html#working-papers",
     "title": "Giovanni Paolo Mariani",
