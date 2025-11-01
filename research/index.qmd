@@ -1,3 +1,10 @@
+<style>
+figcaption {
+  text-align: center;
+  color: black;
+}
+</style>
+
 ::: {style="margin-top: 4em;"}
 ## **Job Market Paper**
 :::
