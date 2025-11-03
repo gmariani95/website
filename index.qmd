@@ -1,6 +1,6 @@
 ---
 title: "Giovanni Paolo Mariani"
-image: profile2.JPG
+image: profile.jpg
 about:
   image-shape: round
   image-width: 20em
