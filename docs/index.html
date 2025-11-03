@@ -140,7 +140,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <div class="quarto-about-trestles column-page">
   <div class="about-entity">
-    <img src="profile2.JPG" class="about-image
+    <img src="profile2.jpg" class="about-image
   round " style="height: 20em; width: 20em;">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -248,7 +248,7 @@ Please feel free to [contact me](mailto:giovanni.paolo.mariani@ulb.be) if you ha
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/gmariani95\.github\.io\/website\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

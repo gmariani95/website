@@ -1,6 +1,6 @@
 ---
 title: "Giovanni Paolo Mariani"
-image: profile.jpg
+image: profile2.jpg
 about:
   image-shape: round
   image-width: 20em
@@ -17,6 +17,7 @@ about:
         text: Email
         href: "mailto:giovanni.paolo.mariani@ulb.be"
 ---
+
 
 Welcome to my website!
 
