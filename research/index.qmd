@@ -1,18 +1,19 @@
+```{=html}
 <style>
 figcaption {
   text-align: center;
   color: black;
 }
 </style>
+```
 
 ::: {style="margin-top: 4em;"}
 ## **Job Market Paper**
 :::
 
-:::: {.columns}
-
+:::::: columns
 ::: {.column width="55%"}
--   [How Much Do Households Value Local Public Goods? Evidence from Massachusetts' Property Tax Limits](working_papers/Mariani_JMP.pdf)
+-   [The Value of Local Public Goods: Evidence from Massachusetts’ Property Tax Limits](working_papers/Mariani_JMP.pdf)
 
     <details>
 
@@ -30,15 +31,13 @@ figcaption {
 ::: {.column width="40%"}
 ![](figures/drd_housing_3.png)
 :::
-
-::::
+::::::
 
 ::: {style="margin-top: 4em;"}
 ## **Working Papers**
 :::
 
-:::: {.columns}
-
+:::::: columns
 ::: {.column width="55%"}
 -   [Do Public Goods Actually Reduce Inequality?](working_papers/public_goods.pdf) (*with* [*M. Castanheira*](https://sites.google.com/site/micaelcastanheiraswebsite/) & [*C. Tricaud*](https://www.clemence.tricaud.com/research))
 
@@ -57,13 +56,11 @@ figcaption {
 ::: {.column width="40%"}
 ![Access to Education. Distance Weighted Index](figures/schools_cut_gravity.jpeg){width="80%"}
 :::
+::::::
 
-::::
-
-:::: {.columns}
-
+:::::: columns
 ::: {.column width="55%"}
--   [Housing inequality in Spain](working_papers/Housing_inequality_Spain.pdf) (*with* [*G. Domènech Arumí*](https://sites.google.com/site/domenechweb/home))  
+-   [Housing inequality in Spain](working_papers/Housing_inequality_Spain.pdf) (*with* [*G. Domènech Arumí*](https://sites.google.com/site/domenechweb/home))\
     **Download the data**: [WHID Data](https://doi.org/10.7910/DVN/HONBNB)
 
     <details>
@@ -81,44 +78,37 @@ figcaption {
 ::: {.column width="40%"}
 ![Housing space inequality in Spain (Census Tract)](figures/tract_gini_space.png)
 :::
-
-::::
+::::::
 
 ::: {style="margin-top: 4em;"}
 ## **Work in Progress**
 :::
 
-:::: {.columns}
-
+:::::: columns
 ::: {.column width="55%"}
 -   Housing inequality in the US (*with* [*G. Domènech Arumí*](https://sites.google.com/site/domenechweb/home) & [*L. Ma*](https://leima-econ.com/))
 
     <details>
-    
+
     <summary>Abstract</summary>
-    
+
     We study housing inequality in the United States (US). Using administrative data on the universe of real estate in the US, we produce novel housing inequality estimates at all levels of aggregation (country, state, MSA, census tract, census block group, and census block) and over time. Dispersion in house values is high (Gini of 0.59) and highly heterogeneous across geographies, with significantly higher inequality in the coastal states. Housing (space) inequality is also high (Gini of 0.64) and exhibits similar geographic patterns to value inequality. Housing wealth inequality is even higher (Gini of 0.79), especially in cities. Our estimates reveal a close link between housing value inequality and (nominal) income inequality and between space inequality and real (net of housing costs) inequality. They also reveal similarities between housing wealth and wealth inequality. Our results and data, which will be publicly available as part of the World Housing Inequality Database (WHID), highlight the extent to which housing inequality estimates can supplement or substitute traditional income and wealth inequality estimates, particularly when these are not readily available or in highly granular settings.
 
     </details>
-
-
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="40%"}
-
 :::
-
-::::
+::::::
 
 ::: {style="margin-top: 4em;"}
 ## **Publications**
 :::
 
-:::: {.columns}
-
+:::::: columns
 ::: {.column width="55%"}
 -   [Des Biens Publics pas si Publics que Ça](https://www.racine.be/fr/in%C3%A9galit%C3%A9s-en-belgique-un-paradoxe) (*with* [*M. Castanheira*](https://sites.google.com/site/micaelcastanheiraswebsite/)) in Decoster, A., Decancq, K., De Rock, B., and P. Gobbi (eds.) (2024), Inégalités en Belgique. Un paradoxe, Editions Racine, Bruxelles
 :::
@@ -129,5 +119,4 @@ figcaption {
 ::: {.column width="40%"}
 ![](figures/book.png){width="30%"}
 :::
-
-::::
+::::::
