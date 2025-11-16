@@ -51,4 +51,5 @@ cv:
   <iframe src="`r rmarkdown::metadata$cv$pdf`" style="border: 0.5px"></iframe>
 </div>
 ```
+
 <!--You can find a complete version of my CV [here](https://www.dropbox.com/scl/fi/3r08aif6dgy4axhwv56pp/CV_Giovanni_paolo_Mariani.pdf?rlkey=bi085nfhx8qth4keek4w4ew7q&dl=0).-->
