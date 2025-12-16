@@ -80,6 +80,29 @@ figcaption {
 :::
 ::::::
 
+
+:::::: columns
+::: {.column width="55%"}
+-   [Housing inequality in the US](working_papers/Housing_inequality_US.pdf) (*with* [*G. Domènech Arumí*](https://sites.google.com/site/domenechweb/home) & [*L. Ma*](https://leima-econ.com/))\
+    **Download the data**: [WHID Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5C9AJD)
+
+    <details>
+
+    <summary>Abstract</summary>
+
+    We use county assessor and property deed records to construct, analyze, and disseminate contemporaneous and long-run estimates of housing inequality for the United States and its subnational levels. A dwelling in the top decile is eight times as valuable and four times as large as a dwelling in the bottom decile, and 12% of all housing assets are held by 1% of households. Housing value inequality has increased since the 1980s, while housing space inequality has remained relatively stable. Heterogeneity is substantial, with considerable variation between and within states, commuting zones, and census tracts. Income, land-use regulations, and housing supply and demand are associated with current and changing levels of housing inequality. This research highlights the importance of granularity when studying inequality and evaluating policies. We make all estimates publicly available to facilitate such work.
+
+    </details>
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+![Housing value inequality in the United States (State)](figures/state_price_stock_gini_2021_comp.png)
+:::
+::::::
+
 ::: {style="margin-top: 4em;"}
 ## **Work in Progress**
 :::
@@ -92,7 +115,7 @@ figcaption {
 
     <summary>Abstract</summary>
 
-    We study housing inequality in the United States (US). Using administrative data on the universe of real estate in the US, we produce novel housing inequality estimates at all levels of aggregation (country, state, MSA, census tract, census block group, and census block) and over time. Dispersion in house values is high (Gini of 0.59) and highly heterogeneous across geographies, with significantly higher inequality in the coastal states. Housing (space) inequality is also high (Gini of 0.64) and exhibits similar geographic patterns to value inequality. Housing wealth inequality is even higher (Gini of 0.79), especially in cities. Our estimates reveal a close link between housing value inequality and (nominal) income inequality and between space inequality and real (net of housing costs) inequality. They also reveal similarities between housing wealth and wealth inequality. Our results and data, which will be publicly available as part of the World Housing Inequality Database (WHID), highlight the extent to which housing inequality estimates can supplement or substitute traditional income and wealth inequality estimates, particularly when these are not readily available or in highly granular settings.
+    We use county assessor and property deed records to construct, analyze, and disseminate contemporaneous and long-run estimates of housing inequality for the United States and its subnational levels. A dwelling in the top decile is eight times as valuable and four times as large as a dwelling in the bottom decile, and 12% of all housing assets are held by 1% of households. Housing value inequality has increased since the 1980s, while housing space inequality has remained relatively stable. Heterogeneity is substantial, with considerable variation between and within states, commuting zones, and census tracts. Income, land-use regulations, and housing supply and demand are associated with current and changing levels of housing inequality. This research highlights the importance of granularity when studying inequality and evaluating policies. We make all estimates publicly available to facilitate such work.
 
     </details>
 :::
