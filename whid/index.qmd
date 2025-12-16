@@ -24,6 +24,12 @@ The first version of the database will include the following countries: **United
 
 -   The data for Spain is already publicly available [here](https://doi.org/10.7910/DVN/HONBNB).
 -   See this [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5688222) for details about the Spanish data.
+
+
+[**Update (December 2025):**]{style="color: red;"}
+
+-   The data for the United States is already publicly available [here](https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/5C9AJD).
+-   See this [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5928399) for details about the United States data.
 -   The WHID will be hosted in this URL: www.worldhousingdata.com (the link will become active in late November).
 
 ::: {style="margin-top: 4em;"}
