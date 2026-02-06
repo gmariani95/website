@@ -18,10 +18,11 @@ about:
         href: "mailto:giovanni.paolo.mariani@ulb.be"
 ---
 
-
 Welcome to my website!
 
 I am a PhD candidate in Economics at Université Libre de Bruxelles and [ECARES](https://ecares.ulb.be/).
+
+I am also the co-founder of the [World Housing Inequality Database](https://www.worldhousingdata.com/).
 
 I hold an MRes in Economics and Statistics from ECARES (2021) and an MSc Double Degree from [LUISS University](https://www.luiss.edu/) and the [Solvay Brussels School of Economics and Management](https://www.solvay.edu/) (2019). Here you can find my [CV](https://gmariani95.github.io/website/cv/CV_Giovanni_paolo_Mariani.pdf).
 

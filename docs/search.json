@@ -74,7 +74,7 @@
     "href": "whid/index.html",
     "title": "The World Housing Inequality Database (WHID)",
     "section": "",
-    "text": "Coming in the September 2025,\nThe World Housing Inequality Database (WHID) will be a cross-country harmonized database with housing inequality estimates available at different levels of aggregation. All estimates will be constructed using high-quality administrative data based on the universe of properties in a given country (cadasters).\nWHID estimates will be publicly available.\nThe first version of the database will include the following countries: United States, Belgium, and Spain.\nG. Domènech Arumí (VanderbiltU) is a co-founder and collaborator in this project.\nG. Domènech Arumí gratefully acknowledges funding and logistic support from the Fonds Thiepolam (Fondation ULB).\nUpdate (April 2025):\nUpdate (October 2025):\nUpdate (December 2025):\nThe exhibits below illustrate preliminary housing inequality results, showcasing and highlighting the advantages inherent in cadastral data described earlier.\nThis figure shows disparities in (assessed) housing value in the United States. Our state-level estimates are constructed from the universe of US parcels drawn from county assessors. Because different counties assess properties applying different methodologies, a future version of this figure will rely on predicted house values from real estate transactions.\nThis figure shows inequality in the space (square meters) of new housing inflows in Spain’s largest cities from the beginning of the 20th Century until 2020. Each point in the map indicates the level of inequality of inflows in the previous decade in a specific city. For example, the “BCN” label from 1910 indicates that the housing space inequality of new dwellings constructed between 1900 and 1910 was 0.3.\nThe figure is produced using the 2020 cadastre. It showcases its potential to study inequality over time from one cross-section (with caveats – e.g., demolitions are not observed)."
+    "text": "The World Housing Inequality Database (WHID) is a cross-country harmonized database with housing inequality estimates available at different levels of aggregation. All estimates are constructed using high-quality administrative data based on the universe of properties in a given country.\nWHID estimates are publicly available.\nThe first version of the database includes the following countries: United States, Belgium, and Spain.\nG. Domènech Arumí (VanderbiltU) is a co-founder and collaborator in this project and he gratefully acknowledges funding and logistic support from the Fonds Thiepolam (Fondation ULB).\nUpdate (April 2025):\nUpdate (October 2025):\nUpdate (December 2025):\nUpdate (January 2026):"
   },
   {
     "objectID": "whid/index.html#why-housing-and-housing-inequality",
@@ -82,19 +82,5 @@
     "title": "The World Housing Inequality Database (WHID)",
     "section": "Why housing and housing inequality?",
     "text": "Why housing and housing inequality?"
-  },
-  {
-    "objectID": "whid/index.html#preliminary-results",
-    "href": "whid/index.html#preliminary-results",
-    "title": "The World Housing Inequality Database (WHID)",
-    "section": "Preliminary results",
-    "text": "Preliminary results"
-  },
-  {
-    "objectID": "whid/index.html#housing-value-inequality-in-catalonia-2019",
-    "href": "whid/index.html#housing-value-inequality-in-catalonia-2019",
-    "title": "The World Housing Inequality Database (WHID)",
-    "section": "Housing Value Inequality in Catalonia (2019)",
-    "text": "Housing Value Inequality in Catalonia (2019)"
   }
 ]
