@@ -3,34 +3,33 @@ title: "The World Housing Inequality Database (WHID)"
 editor: visual
 ---
 
-Coming in the **September 2025**,
+The **World Housing Inequality Database (WHID)** is a cross-country harmonized database with housing inequality estimates available at different levels of aggregation. All estimates are constructed using high-quality administrative data based on the universe of properties in a given country.
 
-The **World Housing Inequality Database (WHID)** will be a cross-country harmonized database with housing inequality estimates available at different levels of aggregation. All estimates will be constructed using high-quality administrative data based on the universe of properties in a given country (cadasters).
+WHID estimates are **publicly available**.
 
-WHID estimates will be **publicly available**.
+The first version of the database includes the following countries: **United States, Belgium, and Spain**.
 
-The first version of the database will include the following countries: **United States, Belgium, and Spain**.
-
-[**G. Domènech Arumí**](https://sites.google.com/site/domenechweb/home) (VanderbiltU) is a co-founder and collaborator in this project.
-
-[**G. Domènech Arumí**](https://sites.google.com/site/domenechweb/home) gratefully acknowledges funding and logistic support from the **Fonds Thiepolam** ([Fondation ULB](https://www.fondationulb.be/en/)).
+[**G. Domènech Arumí**](https://sites.google.com/site/domenechweb/home) (VanderbiltU) is a co-founder and collaborator in this project and he gratefully acknowledges funding and logistic support from the **Fonds Thiepolam** ([Fondation ULB](https://www.fondationulb.be/en/)).
 
 [**Update (April 2025):**]{style="color: red;"}
 
--   The data for Belgium is already publicly available [here](https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/FUQBWG).
+-   The data for Belgium is ready and available [here](https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/FUQBWG).
 -   See this [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4588122) for details about the Belgian data.
 
 [**Update (October 2025):**]{style="color: red;"}
 
--   The data for Spain is already publicly available [here](https://doi.org/10.7910/DVN/HONBNB).
+-   The data for Spain is ready and available [here](https://doi.org/10.7910/DVN/HONBNB).
 -   See this [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5688222) for details about the Spanish data.
-
 
 [**Update (December 2025):**]{style="color: red;"}
 
--   The data for the United States is already publicly available [here](https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/5C9AJD).
+-   The data for the United States is ready and available [here](https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/5C9AJD).
 -   See this [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5928399) for details about the United States data.
--   The WHID will be hosted in this URL: www.worldhousingdata.com (the link will become active in late November).
+
+[**Update (January 2026):**]{style="color: red;"}
+
+-   The WHID now has a dedicated website with interactive maps and other resources.
+-   [Link](https://www.worldhousingdata.com/) 
 
 ::: {style="margin-top: 4em;"}
 ## Why housing and housing inequality?
@@ -45,7 +44,7 @@ The first version of the database will include the following countries: **United
 4.  **Top coding is not a problem.** Cadastral data typically includes information on the universe of real estate in a given location. Therefore, censoring at the top is not a problem, and imputation methods are less often required.
 
 5.  **Analysis over time.** Because the year of construction is a variable typically included in cadastres, it is possible to construct a panel of real estate at any level of aggregation at any point in time, with caveats.
-
+<!--
 ::: {style="margin-top: 4em;"}
 ## Preliminary results
 :::
@@ -137,3 +136,5 @@ mapview(mun_ineq_map,
 
 
 ```
+--> 
+
