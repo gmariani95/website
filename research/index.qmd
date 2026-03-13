@@ -58,7 +58,6 @@ figcaption {
 :::
 ::::::
 
-
 :::::: columns
 ::: {.column width="55%"}
 -   [Housing inequality in the US](working_papers/Housing_inequality_US.pdf) (*with* [*G. Domènech Arumí*](https://sites.google.com/site/domenechweb/home) & [*L. Ma*](https://leima-econ.com/))\
@@ -103,21 +102,19 @@ figcaption {
 :::
 ::::::
 
-
-
 ::: {style="margin-top: 4em;"}
 ## **Work in Progress**
 :::
 
 :::::: columns
 ::: {.column width="55%"}
--   Public Goods, Housing Markets, and Residential Sorting: Evidence from Italy's Municipal Consolidation 
+-   Public Goods, Housing Markets, and Residential Sorting: Evidence from Italy's Municipal Consolidation
 
     <details>
 
     <summary>Abstract</summary>
 
-    How much do households value local public goods, and how do changes in public service provision affect residential sorting? This paper addresses these questions by exploiting Italy's 2010 inter-municipal cooperation reform (Law 78/2010), which mandated service consolidation among municipalities below 5,000 inhabitants. The reform exogenously reduced physical access to local amenities—schools, transit, administrative services—while weakening municipalities' ability to tailor policies to local preferences. Using administrative data on housing prices, real estate transactions, and the geospatial distribution of public services, I employ a difference-in-discontinuities estimator to identify the reduction in public goods access and its causal effect on housing market outcomes. I first document that consolidation significantly reduced amenity accessibility using a novel geospatial accessibility index, then estimate how this reduction capitalized into housing prices. 
+    How much do households value local public goods, and how do changes in public service provision affect residential sorting? This paper addresses these questions by exploiting Italy's 2010 inter-municipal cooperation reform (Law 78/2010), which mandated service consolidation among municipalities below 5,000 inhabitants. The reform exogenously reduced physical access to local amenities—schools, transit, administrative services—while weakening municipalities' ability to tailor policies to local preferences. Using administrative data on housing prices, real estate transactions, and the geospatial distribution of public services, I employ a difference-in-discontinuities estimator to identify the reduction in public goods access and its causal effect on housing market outcomes. I first document that consolidation significantly reduced amenity accessibility using a novel geospatial accessibility index, then estimate how this reduction capitalized into housing prices.
 
     </details>
 :::
