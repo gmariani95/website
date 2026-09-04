@@ -39,7 +39,7 @@ figcaption {
 
 :::::: columns
 ::: {.column width="55%"}
--   [Do Public Goods Actually Reduce Inequality?](working_papers/public_goods.pdf) (*with* [*M. Castanheira*](https://sites.google.com/site/micaelcastanheiraswebsite/) & [*C. Tricaud*](https://www.clemence.tricaud.com/research))
+-   Do Public Goods Actually Reduce Inequality? (*with* [*M. Castanheira*](https://sites.google.com/site/micaelcastanheiraswebsite/) & [*C. Tricaud*](https://www.clemence.tricaud.com/research); **New version coming soon**)
 
     <details>
 
